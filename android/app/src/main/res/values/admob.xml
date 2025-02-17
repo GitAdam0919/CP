@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="admob_app_id_value">YOUR_ADMOB_APP_ID</string>
+    <string name="admob_app_id">@string/admob_app_id_value</string>
+</resources>
